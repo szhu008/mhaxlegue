@@ -117,7 +117,7 @@ matchCsvWriter = csv.writer(matchesOutFile)
 matchCsvWriter.writerow(['MatchId', 'MatchDuration', 'MatchVersion', 'BluePick1', 
 	'BluePick2','BluePick3','BluePick4','BluePick5', 'RedPick1', 'RedPick2', 'RedPick3',
 	'RedPick4', 'RedPick5', 'BlueBan1', 'BlueBan2', 'BlueBan3', 'RedBan1', 'RedBan2', 'RedBan3',
-	'RedBanFirst', 'RedWinner'])
+	'RedWinner'])
 runFromCsv('matchIdsTop2000.csv', matchCsvWriter, matchesOutFile)
 
 #getMatchInfo(1948599197, matchCsvWriter, matchesOutFile)
