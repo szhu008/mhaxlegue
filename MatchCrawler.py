@@ -137,7 +137,7 @@ writer = csv.writer(tmp)
 writer.writerow(['MatchId'])
 
 for mid in seenMID:
-	writer.writerow[mid]
+	writer.writerow([mid])
 
 #summonersProcessed = extractSummoners(1706865970, summonersProcessed)
 #print summonersProcessed
