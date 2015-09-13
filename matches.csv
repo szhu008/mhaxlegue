@@ -1,4 +1,4 @@
-MatchId,MatchDuration,MatchVersion,BluePick1,BluePick2,BluePick3,BluePick4,BluePick5,RedPick1,RedPick2,RedPick3,RedPick4,RedPick5,BlueBan1,BlueBan2,BlueBan3,RedBan1,RedBan2,RedBan3,RedBanFirst,RedWinner
+MatchId,MatchDuration,MatchVersion,BluePick1,BluePick2,BluePick3,BluePick4,BluePick5,RedPick1,RedPick2,RedPick3,RedPick4,RedPick5,BlueBan1,BlueBan2,BlueBan3,RedBan1,RedBan2,RedBan3,RedWinner
 1793064960,1829,5.7.0.275,79,102,42,432,101,113,412,18,23,103,7,421,120,39,55,8,1
 1768161281,2315,5.5.0.273,39,32,34,104,53,20,40,1,131,15,120,113,127,111,76,55,1
 1892242774,1391,5.13.0.335,83,4,412,28,429,98,222,103,16,107,1,76,40,81,13,421,0
